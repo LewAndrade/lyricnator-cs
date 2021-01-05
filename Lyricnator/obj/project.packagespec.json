@@ -1,0 +1,57 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "D:\\Lew\\Documents\\Projects\\C#\\Lyricnator\\Lyricnator\\Lyricnator.csproj",
+    "projectName": "Lyricnator",
+    "projectPath": "D:\\Lew\\Documents\\Projects\\C#\\Lyricnator\\Lyricnator\\Lyricnator.csproj",
+    "outputPath": "D:\\Lew\\Documents\\Projects\\C#\\Lyricnator\\Lyricnator\\obj\\",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "Genius.NET": {
+          "target": "Package",
+          "version": "[2.0.0, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.0.0, )",
+          "autoReferenced": true
+        },
+        "SpotifyWebApi-Core": {
+          "target": "Package",
+          "version": "[0.0.11, )"
+        }
+      },
+      "imports": [
+        "net461",
+        "net462",
+        "net47",
+        "net471",
+        "net472",
+        "net48"
+      ],
+      "assetTargetFallback": true,
+      "warn": true,
+      "runtimeIdentifierGraphPath": "C:\\Users\\Lew\\.dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+    }
+  }
+}

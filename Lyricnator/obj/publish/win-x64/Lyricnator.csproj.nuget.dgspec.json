@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Arch\\RiderProjects\\Lyricnator\\Lyricnator\\Lyricnator.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Arch\\RiderProjects\\Lyricnator\\Lyricnator\\Lyricnator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Arch\\RiderProjects\\Lyricnator\\Lyricnator\\Lyricnator.csproj",
+        "projectName": "Lyricnator",
+        "projectPath": "C:\\Users\\Arch\\RiderProjects\\Lyricnator\\Lyricnator\\Lyricnator.csproj",
+        "packagesPath": "C:\\Users\\Arch\\.nuget\\packages\\",
+        "outputPath": "C:/Users/Arch/RiderProjects/Lyricnator/Lyricnator/obj/publish/win-x64/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Arch\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Genius.NET": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.9, )",
+              "autoReferenced": true
+            },
+            "SpotifyWebApi-Core": {
+              "target": "Package",
+              "version": "[0.0.11, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>netcoreapp2.0</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Genius.NET" Version="2.0.0" />
+      <PackageReference Include="SpotifyWebApi-Core" Version="0.0.11" />
+    </ItemGroup>
+
+</Project>

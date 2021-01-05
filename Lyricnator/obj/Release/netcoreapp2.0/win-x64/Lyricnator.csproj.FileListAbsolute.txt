@@ -1,0 +1,14 @@
+C:\Users\Arch\RiderProjects\Lyricnator\Lyricnator\bin\Release\netcoreapp2.0\win-x64\hostpolicy.dll
+C:\Users\Arch\RiderProjects\Lyricnator\Lyricnator\bin\Release\netcoreapp2.0\win-x64\hostfxr.dll
+C:\Users\Arch\RiderProjects\Lyricnator\Lyricnator\bin\Release\netcoreapp2.0\win-x64\Lyricnator.exe
+C:\Users\Arch\RiderProjects\Lyricnator\Lyricnator\bin\Release\netcoreapp2.0\win-x64\Lyricnator.deps.json
+C:\Users\Arch\RiderProjects\Lyricnator\Lyricnator\bin\Release\netcoreapp2.0\win-x64\Lyricnator.runtimeconfig.json
+C:\Users\Arch\RiderProjects\Lyricnator\Lyricnator\bin\Release\netcoreapp2.0\win-x64\Lyricnator.runtimeconfig.dev.json
+C:\Users\Arch\RiderProjects\Lyricnator\Lyricnator\bin\Release\netcoreapp2.0\win-x64\Lyricnator.dll
+C:\Users\Arch\RiderProjects\Lyricnator\Lyricnator\bin\Release\netcoreapp2.0\win-x64\Lyricnator.pdb
+C:\Users\Arch\RiderProjects\Lyricnator\Lyricnator\obj\Release\netcoreapp2.0\win-x64\Lyricnator.csprojAssemblyReference.cache
+C:\Users\Arch\RiderProjects\Lyricnator\Lyricnator\obj\Release\netcoreapp2.0\win-x64\Lyricnator.csproj.CoreCompileInputs.cache
+C:\Users\Arch\RiderProjects\Lyricnator\Lyricnator\obj\Release\netcoreapp2.0\win-x64\Lyricnator.AssemblyInfoInputs.cache
+C:\Users\Arch\RiderProjects\Lyricnator\Lyricnator\obj\Release\netcoreapp2.0\win-x64\Lyricnator.AssemblyInfo.cs
+C:\Users\Arch\RiderProjects\Lyricnator\Lyricnator\obj\Release\netcoreapp2.0\win-x64\Lyricnator.dll
+C:\Users\Arch\RiderProjects\Lyricnator\Lyricnator\obj\Release\netcoreapp2.0\win-x64\Lyricnator.pdb

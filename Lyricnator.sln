@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lyricnator", "Lyricnator\Lyricnator.csproj", "{14973411-7AA8-455B-A55D-4BCF38BE1800}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14973411-7AA8-455B-A55D-4BCF38BE1800}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14973411-7AA8-455B-A55D-4BCF38BE1800}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14973411-7AA8-455B-A55D-4BCF38BE1800}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14973411-7AA8-455B-A55D-4BCF38BE1800}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
